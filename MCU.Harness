@@ -1,0 +1,3 @@
+5V_Inputs=Extra_Input_1,Precharge Op Amp Output
+Digital_Outputs=LTS,RTS,DC_DC,Running Lights,Pos Contactor Relay,Battery Fans 1,Battery Fans 2,Precharge Activate,Extra 12V output
+LEDs=CAN Receive LED,CAN Error LED,User LED

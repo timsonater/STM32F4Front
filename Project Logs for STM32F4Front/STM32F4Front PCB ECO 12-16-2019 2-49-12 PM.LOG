@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetH2_1 New Net Name=NetH3_1
+Change Net Name : Old Net Name=NetH2_2 New Net Name=NetH3_2
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ12_1
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ12_3
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetJ12_5
+Added Member To Class: ClassName=MCU Member=Component C12 2.2uF
+Added Member To Class: ClassName=Communications Member=Component H1 Header 0
+Added Member To Class: ClassName=Communications Member=Component H2 Header 0
+Added Member To Class: ClassName=Communications Member=Component H3 Header 0
+Added Member To Class: ClassName=Communications Member=Component J4 1542761
+Added Member To Class: ClassName=Communications Member=Component R1 ERJ-14YJ121U
+Added Member To Class: ClassName=User_LEDs Member=Component R9 CRCW120656R0FKEA
+Added Member To Class: ClassName=Communications Member=Component U2 SN65HVD230D

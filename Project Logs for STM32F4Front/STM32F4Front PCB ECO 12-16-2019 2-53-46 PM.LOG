@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=F1-1
+Removed Pin From Net: NetName=GND Pin=F1-2
+Removed Pin From Net: NetName=GND Pin=F1-3
+Removed Pin From Net: NetName=GND Pin=F1-4
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=+12 Pin=F1-2
+Added Pin To Net: NetName=NetF1_3 Pin=F1-3
+Added Pin To Net: NetName=+12 Pin=F1-4
+Added Member To Class: ClassName=Communications Member=Component F1 3557-2

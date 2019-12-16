@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32F4Front.PrjPcb]
+   Generated File[STM32F4Front.TXT]
+   Generated File[STM32F4Front.LDP]
+   Generated File[STM32F4Front.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:12:25 PM On 12/16/2019
