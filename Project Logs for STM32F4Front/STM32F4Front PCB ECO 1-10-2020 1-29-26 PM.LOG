@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC_MCU Pin=C2-2
+Added Pin To Net: NetName=VCC_MCU Pin=U1-21
+Added Pin To Net: NetName=VCC_MCU Pin=U1-22
+Added Member To Class: ClassName=Communications Member=Component J3 1542761
